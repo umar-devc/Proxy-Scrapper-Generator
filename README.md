@@ -37,7 +37,7 @@ pip install requests[socks] rich googlesearch-python
 
 1. **Clone the repository:**
     ```
-    git clone https://github.com/umar-devc/Web-Proxy-Scrapper.git
+    git clone https://github.com/umar-devc/Proxy-Scrapper-Generator.git
     cd Web-Proxy-Scrapper
     ```
 
