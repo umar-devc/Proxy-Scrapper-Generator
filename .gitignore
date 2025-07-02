@@ -2,6 +2,6 @@ __pycache__/
 *.pyc
 *.pyo
 *.log
-[working_proxies.txt](http://_vscodecontentref_/2)
-[proxies.txt](http://_vscodecontentref_/3)
-[links.txt](http://_vscodecontentref_/4)
+working_proxies.txt
+proxies.txt
+links.txt
