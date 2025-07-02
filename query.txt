@@ -1,0 +1,4 @@
+fresh proxy filetype:txt site:github.com
+intext:proxy-list filetype:txt
+allintext:fresh proxy list site:github.com filetype:txt
+allintext:fresh proxy list filetype:txt
